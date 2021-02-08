@@ -54,7 +54,7 @@ public class MainController {
 	
 	
 	
-	@RequestMapping("/")
+	@RequestMapping("/xq")
 	public String index() {
 		return "index";
 	}
